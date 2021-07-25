@@ -12,7 +12,6 @@ I am Dad. Cloud-Addict. I prefer  at Home, Windows at Work, Linux in between.
 <br>
 <br>
 
-## Blog posts
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
 <!-- BLOG-POST-LIST:END -->

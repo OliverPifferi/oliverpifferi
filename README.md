@@ -17,9 +17,9 @@ I am Dad. Cloud-Addict. I prefer  at Home, Windows at Work, Linux in between.
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sleeve: Stick the music you play right to your macOS-desktop](https://medium.com/macoclock/sleeve-stick-the-music-you-play-right-to-your-macos-desktop-79c73cbd3bee?source=rss-7bddb282d73------2)
 - [Yet some additional and useful apps for your Mac-related life](https://medium.com/macoclock/yet-some-additional-and-useful-apps-for-your-mac-related-life-d328183dfdf1?source=rss-7bddb282d73------2)
 - [How to fix errors with missing subfolders on iOS and Android after doing a PST-import](https://medium.com/geekculture/how-to-fix-errors-with-missing-subfolders-on-ios-and-android-after-doing-a-pst-import-5b334c1d7f07?source=rss-7bddb282d73------2)
 - [The Return to Flanders Fields](https://inflandersfields.net/the-return-to-flanders-fields-adf19e4eb1c1?source=rss-7bddb282d73------2)
 - [Nextcloud Talk takes yet another approach on WhatsApp and Skype for Business](https://medium.com/geekculture/nextcloud-talk-takes-yet-another-approach-on-whatsapp-and-skype-for-business-390279a8a9bf?source=rss-7bddb282d73------2)
-- [Windows 365 — Microsoft announces the Cloud PC as a new era of hybrid computing](https://medium.com/geekculture/windows-365-microsoft-announces-the-cloud-pc-as-a-new-era-of-hybrid-computing-71e9972be818?source=rss-7bddb282d73------2)
 <!-- BLOG-POST-LIST:END -->

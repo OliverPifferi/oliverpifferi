@@ -15,6 +15,11 @@ I am Dad. Cloud-Addict. I prefer  at Home, Windows at Work, Linux in between.
 <br>
 <br>
 
+## Support me
+
+- ☕️ 🍺 If you like, you may buy me a coffee or a beer (depending on daytime & situation) here: http://buymeacoff.ee/oliverpifferi
+- 📚 My <a href="https://www.amazon.de/hz/wishlist/ls/2IKSS2AI2M24S?ref_=wl_share">Amazon-Wishlist</a>
+
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Sleeve: Stick the music you play right to your macOS-desktop](https://medium.com/macoclock/sleeve-stick-the-music-you-play-right-to-your-macos-desktop-79c73cbd3bee?source=rss-7bddb282d73------2)

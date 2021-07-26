@@ -1,8 +1,9 @@
-### Hello World! 👋
-I am Dad. Cloud-Addict. I prefer  at Home, Windows at Work, Linux in between. Convinced -Fanboy. I 🖤 Metal, Travelling, Photographing and Blogging.
+### Hello there! 👋
+I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security and Free Software. I prefer  at Home, Windows at Work, Linux in between. I am a convinced -Fanboy, and, besides, love Metal of all kind, Travelling, Photographing, Reading and Blogging.
 
-- 🔭 Always working on articles and in-depths that are related to the OS above and all Cloud-driven solutions with privacy in mind.
+- 🔭 Always working on articles and in-depths that are related to the OS above and all Cloud-driven solutions with privacy in mind
 - 🌱 Always learning, trying to get the big whole
+- 🪂 Often disjointed but easy to thrill when it comes to discover something new
 
 ## Connect with me
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/o.pifferi/)

@@ -23,9 +23,9 @@ I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Death smiles at us all — all a man can do is smile back](https://oliverpifferi.medium.com/death-smiles-at-us-all-all-a-man-can-do-is-smile-back-974d73267d3b?source=rss-7bddb282d73------2)
 - [Is our Post-Covid-working life here to stay?](https://oliverpifferi.medium.com/is-our-post-covid-working-life-here-to-stay-b431e627cd5?source=rss-7bddb282d73------2)
 - [Sleeve: Stick the music you play right to your macOS-desktop](https://medium.com/macoclock/sleeve-stick-the-music-you-play-right-to-your-macos-desktop-79c73cbd3bee?source=rss-7bddb282d73------2)
 - [Yet some additional and useful apps for your Mac-related life](https://medium.com/macoclock/yet-some-additional-and-useful-apps-for-your-mac-related-life-d328183dfdf1?source=rss-7bddb282d73------2)
 - [How to fix errors with missing subfolders on iOS and Android after doing a PST-import](https://medium.com/geekculture/how-to-fix-errors-with-missing-subfolders-on-ios-and-android-after-doing-a-pst-import-5b334c1d7f07?source=rss-7bddb282d73------2)
-- [The Return to Flanders Fields](https://inflandersfields.net/the-return-to-flanders-fields-adf19e4eb1c1?source=rss-7bddb282d73------2)
 <!-- BLOG-POST-LIST:END -->

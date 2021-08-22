@@ -23,9 +23,9 @@ I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You are not your resume, you are your work](https://medium.com/the-shadow/you-are-not-your-resume-you-are-your-work-aead82052b00?source=rss-7bddb282d73------2)
 - [Is Apple’s construction of privacy crumbling?](https://medium.com/macoclock/is-apples-construction-of-privacy-crumbling-93470f2beb87?source=rss-7bddb282d73------2)
 - [Death smiles at us all — all a man can do is smile back](https://oliverpifferi.medium.com/death-smiles-at-us-all-all-a-man-can-do-is-smile-back-974d73267d3b?source=rss-7bddb282d73------2)
 - [Is our Post-Covid-working life here to stay?](https://oliverpifferi.medium.com/is-our-post-covid-working-life-here-to-stay-b431e627cd5?source=rss-7bddb282d73------2)
 - [Sleeve: Stick the music you play right to your macOS-desktop](https://medium.com/macoclock/sleeve-stick-the-music-you-play-right-to-your-macos-desktop-79c73cbd3bee?source=rss-7bddb282d73------2)
-- [Yet some additional and useful apps for your Mac-related life](https://medium.com/macoclock/yet-some-additional-and-useful-apps-for-your-mac-related-life-d328183dfdf1?source=rss-7bddb282d73------2)
 <!-- BLOG-POST-LIST:END -->

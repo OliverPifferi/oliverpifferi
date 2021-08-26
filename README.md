@@ -23,9 +23,9 @@ I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [There are no passengers on spaceship earth — we are all crew](https://medium.com/the-shadow/there-are-no-passengers-on-spaceship-earth-we-are-all-crew-bd3dd2b73bcf?source=rss-7bddb282d73------2)
 - [Microsoft announces new pricing for Microsoft 365](https://medium.com/geekculture/microsoft-announces-new-pricing-for-microsoft-365-5335eeca22cb?source=rss-7bddb282d73------2)
 - [You are not your resume, you are your work](https://medium.com/the-shadow/you-are-not-your-resume-you-are-your-work-aead82052b00?source=rss-7bddb282d73------2)
 - [Is Apple’s construction of privacy crumbling?](https://medium.com/macoclock/is-apples-construction-of-privacy-crumbling-93470f2beb87?source=rss-7bddb282d73------2)
 - [Death smiles at us all — all a man can do is smile back](https://oliverpifferi.medium.com/death-smiles-at-us-all-all-a-man-can-do-is-smile-back-974d73267d3b?source=rss-7bddb282d73------2)
-- [Is our Post-Covid-working life here to stay?](https://oliverpifferi.medium.com/is-our-post-covid-working-life-here-to-stay-b431e627cd5?source=rss-7bddb282d73------2)
 <!-- BLOG-POST-LIST:END -->
